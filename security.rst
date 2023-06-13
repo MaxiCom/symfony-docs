@@ -2342,7 +2342,7 @@ the ``ROLE_SUPER_ADMIN`` permission:
     }
 
 If you want to use a custom status code instead of the default one (which
-is 403), this can be done by setting with the ``statusCode`` argument::
+is 403), this can be done by setting the ``statusCode`` argument::
 
     // src/Controller/AdminController.php
     // ...
